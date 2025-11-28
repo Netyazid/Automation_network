@@ -2,10 +2,8 @@
 Dossier Yang
 // =================================================================================
 // site: collection of YANG modules in the 
-// https://github.com/YangModels/yang
 // =================================================================================
 // take a look at the modules for 
-// https://github.com/YangModels/yang/tree/master/vendor/cisco/xe/16101
 // =================================================================================
 
 
